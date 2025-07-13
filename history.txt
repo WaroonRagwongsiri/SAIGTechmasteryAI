@@ -1,0 +1,6 @@
+f1macro 0.9532 resnet50 threshold 0.6 epoch 20 no seed set
+f1macro 0.9750 effnet threshold 0.6 epoch 20 no seed set
+
+torch.manual_seed(0)
+f1macro 0.9172 resnet50 threshold 0.6 epoch 20 no seed set
+f1macro 0.9900 effnet threshold 0.6 epoch 20 no seed set
