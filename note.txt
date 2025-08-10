@@ -16,7 +16,8 @@ This effnet_b3.pth threshold = 5.88 PublicScore 0.81585
 	Class steampunk: F1 Score = 0.9893
 	Class water color: F1 Score = 0.909
 
-This effnet_b3 (Weighted balance)
+UNK 14.81%
+This effnet_b3 (Weighted balance) threshold = 6.3 PublicScore 0.83433
 	Final F1 Score (Macro): 0.9397
 	Final F1 Score (Weighted): 0.9463
 
