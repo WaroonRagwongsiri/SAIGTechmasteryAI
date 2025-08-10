@@ -1,2 +1,33 @@
-# Norm Dataset
 # VLM -> Multitask
+
+This effnet_b3.pth threshold = 5.88 PublicScore 0.81585
+	Final F1 Score (Macro): 0.9297
+	Final F1 Score (Weighted): 0.9406
+
+	Per-Class F1 Scores:
+	Class Ink scenery: F1 Score = 0.9153
+	Class comic: F1 Score = 0.8205
+	Class cyberpunk: F1 Score = 0.9452
+	Class futuristic UI: F1 Score = 0.9550
+	Class lowpoly: F1 Score = 0.9057
+	Class oil painting: F1 Score = 0.9755
+	Class pixel: F1 Score = 0.9571
+	Class realistic: F1 Score = 0.9235
+	Class steampunk: F1 Score = 0.9893
+	Class water color: F1 Score = 0.909
+
+This effnet_b3 (Weighted balance)
+	Final F1 Score (Macro): 0.9397
+	Final F1 Score (Weighted): 0.9463
+
+	Per-Class F1 Scores:
+	Class Ink scenery: F1 Score = 0.9270
+	Class comic: F1 Score = 0.8974
+	Class cyberpunk: F1 Score = 0.9650
+	Class futuristic UI: F1 Score = 0.9652
+	Class lowpoly: F1 Score = 0.8889
+	Class oil painting: F1 Score = 0.9774
+	Class pixel: F1 Score = 0.9469
+	Class realistic: F1 Score = 0.9306
+	Class steampunk: F1 Score = 0.9718
+	Class water color: F1 Score = 0.9272
