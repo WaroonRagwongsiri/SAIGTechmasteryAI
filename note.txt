@@ -50,9 +50,26 @@ This effnet_b3 (Weighted balance) (300*300) threshold = 6.3 PublicScore 0.82930
 	Class steampunk: F1 Score = 0.9822
 	Class water color: F1 Score = 0.9336
 
-Best Rn
-14.03%
+UNK 14.03% 198
 This effnet_b3 (Weighted balance) (300*300) (test=0.2) threshold = 5.8 PublicScore 0.85101
+	Final F1 Score (Macro): 0.9498
+	Final F1 Score (Weighted): 0.9504
+
+	Per-Class F1 Scores:
+	Class Ink scenery: F1 Score = 0.9130
+	Class comic: F1 Score = 0.9600
+	Class cyberpunk: F1 Score = 0.9684
+	Class futuristic UI: F1 Score = 0.9795
+	Class lowpoly: F1 Score = 0.9028
+	Class oil painting: F1 Score = 0.9707
+	Class pixel: F1 Score = 0.9433
+	Class realistic: F1 Score = 0.9383
+	Class steampunk: F1 Score = 0.9840
+	Class water color: F1 Score = 0.9381
+
+Best Rn
+UNK 15.38% 217
+This effnet_b3 (Weighted balance) (300*300) (test=0.2) (/1.2) threshold = 5.8 PublicScore 0.85101
 	Final F1 Score (Macro): 0.9498
 	Final F1 Score (Weighted): 0.9504
 

@@ -245,7 +245,7 @@ da525fd2-60c2-4b07-84d8-c2835377c361,steampunk
 3c174e5b-2027-4de6-ba02-ab7db29d0672,water color
 5c09f50a-e333-4624-95fd-91195030488f,comic
 66ef8cfd-ccfa-4776-b870-d32e23160344,oil painting
-c08737a5-4767-425f-bd69-fea38fef7606,water color
+c08737a5-4767-425f-bd69-fea38fef7606,UNK
 714c7fcc-fe89-47ff-8afc-de205bae537a,lowpoly
 0115c45d-023c-41b1-82e7-ce4bfa876b76,cyberpunk
 de5b0f1e-c384-4ae0-b43e-cf172c23a7e6,water color
@@ -482,7 +482,7 @@ c8024982-3201-4070-a4f9-f0f592b29674,realistic
 eddd21c3-94a3-4859-b7a5-8ba6e7e8b33d,realistic
 c687e11c-b203-4791-b186-c7d0a705a7ff,comic
 705930e8-3dcc-4676-a589-8d315ce6958a,futuristic UI
-d0f02602-1645-4e78-af68-a708e8113c3a,water color
+d0f02602-1645-4e78-af68-a708e8113c3a,UNK
 b8043024-bab7-4bf0-8791-192beb4c60aa,cyberpunk
 99e69061-8810-42ed-894d-e47e3b8770df,realistic
 f2c47f66-6c7e-4b6a-a5d5-077f322a5e08,water color
@@ -532,11 +532,11 @@ b19fde3a-757b-40a9-b1ba-ca2f76add8fe,Ink scenery
 6712cb9e-119d-4072-897b-b8f50561aef4,UNK
 b3fd9e92-1031-40cd-9f23-b93f64e51df4,lowpoly
 e3f25204-c858-40e7-bb04-78014cf50fcb,water color
-26f2ddde-9c3f-4a7c-9771-2a2ca1838452,water color
+26f2ddde-9c3f-4a7c-9771-2a2ca1838452,UNK
 7df4aa07-2877-4168-a33f-961ce9465602,steampunk
 7a2f1e5d-9dcb-488a-a868-77a113f936d1,steampunk
 9c09bdb2-bfe0-4483-9b89-8fb5eddca02a,comic
-fdf478e5-1453-418a-87ac-a7c0855cde95,water color
+fdf478e5-1453-418a-87ac-a7c0855cde95,UNK
 b93d309f-36ed-485a-8f80-e7eed5ee4841,realistic
 f61b0434-ca55-487c-aa2b-fc01f8f5f8ab,UNK
 35d777a9-a26c-466d-978c-db7c1755727e,futuristic UI
@@ -743,7 +743,7 @@ be9c952d-ecf3-4a8e-87d2-7547a5e304f5,realistic
 f165b5cb-c8cf-4f8a-ad7f-490e02679dd5,water color
 8a397070-0ff8-479f-9c85-912eb08f117f,cyberpunk
 988702b0-6365-4990-bd3d-d1c804df7c4b,Ink scenery
-bd5e4343-3dde-458c-8ffc-f94f0943ab21,water color
+bd5e4343-3dde-458c-8ffc-f94f0943ab21,UNK
 83752acd-cab5-4ab2-996a-f777a66d1a16,Ink scenery
 82904357-9a5e-4963-9726-2f26f0306832,steampunk
 73c284d0-f2f9-46aa-abfd-04d770ac607c,UNK
@@ -772,7 +772,7 @@ c4cff8de-bf72-4bd1-8c2a-2a70dced9a85,water color
 0bffd55a-e4fc-4201-889c-38f90cd6eb1f,UNK
 1ca3ad38-d905-4114-9ef9-176dd6d6aba0,steampunk
 3acb8962-b543-4c6a-b441-2cc7557ee0ec,pixel
-457d455e-6812-4f66-a01b-60b06eb2d53c,water color
+457d455e-6812-4f66-a01b-60b06eb2d53c,UNK
 6cb72cfe-cea5-4129-89d7-bbafe3dfd2ac,UNK
 a275d0cf-ec51-4e38-8b01-a8423856e0f3,pixel
 acdb894f-a747-45f8-a7c9-a3565d1e27c5,lowpoly
@@ -823,9 +823,9 @@ b27715df-7c7d-4694-9c98-f6a0db8399e7,cyberpunk
 8b23126f-c8d6-496a-8ad2-7927e24cdc93,realistic
 82b18358-8545-4078-94f8-2bacf066cb4b,UNK
 dff46758-30e4-4380-9976-3250272eac76,cyberpunk
-d1567fac-a24b-482b-bdba-7a05f7c01fed,water color
+d1567fac-a24b-482b-bdba-7a05f7c01fed,UNK
 cea8d1f9-66b1-4d7b-8567-f14ff6d87d2c,lowpoly
-0ee13742-a0cf-48b4-823b-f9e863c6f90b,water color
+0ee13742-a0cf-48b4-823b-f9e863c6f90b,UNK
 16358a6e-0f17-4f4b-8de5-485eb47ef04c,UNK
 887bd960-f922-4198-b0eb-d2cf2372606d,steampunk
 96503909-9fea-44f3-9528-d3b84f3c1f01,realistic
@@ -835,7 +835,7 @@ cea8d1f9-66b1-4d7b-8567-f14ff6d87d2c,lowpoly
 34ab53c8-ab39-4f3d-a89f-861ab9c2e44d,water color
 32b434fb-b592-4bf3-8c86-a2cc5c27b3cc,pixel
 4625cb01-f78e-4657-bb21-1ce3b1cbbca5,UNK
-f66bfdb5-4d0f-4058-bcc4-9a897a132db7,water color
+f66bfdb5-4d0f-4058-bcc4-9a897a132db7,UNK
 a5d4503f-cb7a-402a-a937-ac67373ae1a2,water color
 79e3c45b-e3ed-411a-b86b-469cadea66f2,Ink scenery
 8462008b-425b-4129-b204-0541c026bdf5,realistic
@@ -894,7 +894,7 @@ c995f8d7-32b2-4338-9535-941f600f2b8d,realistic
 d3a443dc-ebd6-4a75-a92a-54d1a66b53c1,oil painting
 ce95e73d-b34f-43f9-b12b-623d4d456964,comic
 ac9fe0eb-b042-435e-b6b5-4545c5c7941d,lowpoly
-05b36351-55ec-4aa4-8d89-78165c88cc0c,water color
+05b36351-55ec-4aa4-8d89-78165c88cc0c,UNK
 66086392-cc34-479e-bd7f-52b71ecdaf43,comic
 e91645ab-a1de-4b74-a634-d1ce0c11417a,futuristic UI
 80fe72d6-1a4d-45c0-a0b5-e2c18f726edf,pixel
@@ -906,7 +906,7 @@ f7faad1e-1f2c-4ea2-8412-06c5ecccf647,cyberpunk
 d7d407f5-fcf3-4adc-927e-44a84eacf812,UNK
 a27ebe5c-aa24-4dd5-a247-aff6c38133c3,oil painting
 c4cb88db-1457-40cf-8ffc-0eb0f1f0db68,cyberpunk
-95561f4a-9d9f-4d7a-ba2b-2dddfba0bca6,water color
+95561f4a-9d9f-4d7a-ba2b-2dddfba0bca6,UNK
 77b52900-496c-4b68-98b1-d69cfadd8671,steampunk
 0cfc5c79-cb0a-4dc1-a491-9ff011b326e4,water color
 ae2ad66e-7e8a-4b27-8431-e1ccd8053fc4,UNK
@@ -972,7 +972,7 @@ ad3f7d2c-bbe1-4bd2-84a7-7678e1ea6bd0,lowpoly
 e7f3ad71-3c72-47a9-97a6-2ef1fc991273,realistic
 ad041b34-bb81-4315-a484-8372e158daf0,UNK
 2074caec-7b28-4883-b967-06cabe84b4f3,UNK
-24c2e29b-c597-4da8-a18a-f561d03c68fa,water color
+24c2e29b-c597-4da8-a18a-f561d03c68fa,UNK
 832a83b6-cb7d-4426-a2bc-369171670ed2,cyberpunk
 56210d4b-1a95-4d97-82b1-da5d2a3752f0,comic
 831f96da-6d91-40fa-98a7-144cbf0099f6,oil painting
@@ -1034,7 +1034,7 @@ de349a25-53a1-4663-bc2e-649ac220d552,water color
 404af250-e7c3-4cc2-8680-810e2ad2a8bd,steampunk
 36a43a26-0312-4b26-ba4d-aee048c2a6bc,comic
 7edb661d-c7e8-4453-9fe7-6c9b07c8815d,futuristic UI
-d0f2aa24-f1c7-4b93-9e37-f2491256f55d,water color
+d0f2aa24-f1c7-4b93-9e37-f2491256f55d,UNK
 9797ab61-ea70-42d5-ae64-d149377149ce,pixel
 91762c2d-c209-4f11-89c7-ffd12ee15809,water color
 b3b4f3b8-bff3-4314-914e-24b56f8632a3,water color
@@ -1069,7 +1069,7 @@ d67928d0-6b30-447b-b50d-fd637e4cb279,realistic
 0648d73b-ddba-4f2c-bfbb-e56128466f3b,steampunk
 d5ba04ca-7979-47ef-9706-664e918bf928,steampunk
 9e3f4a20-a721-4608-bab9-5f98ac47efcd,UNK
-3abd14d7-dccc-4452-a28a-9e02efd35417,water color
+3abd14d7-dccc-4452-a28a-9e02efd35417,UNK
 bea824cb-74dc-466e-9345-e71bc14e97bb,UNK
 62411114-82c8-403b-a014-8ef7c02d4fcc,UNK
 85d3a49c-cb04-415d-9fcc-49442dbca576,oil painting
@@ -1194,7 +1194,7 @@ ee152635-a9c3-41f6-b40d-6fc28a322717,Ink scenery
 4ced2695-2038-427e-86b9-5f6832bc161b,oil painting
 e75cbdb7-9285-431f-adc9-a70552e2c975,UNK
 84d5fc78-8250-487c-872e-0259cdff0a05,realistic
-3dd91642-5c90-426a-8b20-2b72a247310d,water color
+3dd91642-5c90-426a-8b20-2b72a247310d,UNK
 3d60543f-2166-4fa1-8562-b7b7ede5b38d,Ink scenery
 d3a0b2e0-6a77-4f6c-8406-0c6e9b1a7f61,water color
 bce36497-02a9-4069-bf37-e4c5a853794e,realistic
@@ -1262,7 +1262,7 @@ ca0ff056-6eb1-480d-8967-5d5b425b6118,water color
 ee5e24ca-0d22-4129-954b-5dc09d71a99c,UNK
 355c6371-c71d-4ce7-a36d-06934e5f6d8f,UNK
 f955f6eb-4db6-4218-bda0-d76bd88f542a,cyberpunk
-55dbc0dc-7baa-42b7-bd07-501a3a56c0d8,water color
+55dbc0dc-7baa-42b7-bd07-501a3a56c0d8,UNK
 7e5cef62-1541-431f-893b-4e9636804ba3,lowpoly
 4d5aa497-e43e-4800-9e12-48453d462ccb,UNK
 47f61d04-c6ee-444e-9625-b90f6dd14a29,steampunk
@@ -1314,7 +1314,7 @@ d2ed0b32-e865-4c4d-b766-6092f3a0c880,water color
 51398975-36d3-40e2-91b5-ebb0a4676370,futuristic UI
 d32b6717-d1a5-4cb4-a0f1-7462857b3c33,water color
 42cefea0-fab2-47c3-98e7-081b9ae8ce5d,Ink scenery
-988231ac-1cd3-4a73-b117-896aa648610e,water color
+988231ac-1cd3-4a73-b117-896aa648610e,UNK
 ad06c715-cf4f-46a3-bbbe-298fd3cbf1c1,futuristic UI
 abadc8cd-8a9a-4983-818c-1d0a09b7e758,pixel
 41988eb3-b1a9-4e26-a874-32bfea4a37a1,Ink scenery
@@ -1363,7 +1363,7 @@ fb3f7d2c-c2be-465a-9138-998e74a43a0b,oil painting
 4d7cff28-397f-4da4-80a9-71a708a2bd07,steampunk
 b28e29e9-8cc7-4692-af7d-c8aeca213c54,comic
 6309a4cc-cc6f-4043-bc9e-fc22cd82d1cb,futuristic UI
-47a46d63-7d7b-48fa-96ec-90632c9ff576,water color
+47a46d63-7d7b-48fa-96ec-90632c9ff576,UNK
 77624375-2851-48ce-81f3-0835f43d90d2,pixel
 f6903498-ee71-45df-887e-c2b415159cb4,futuristic UI
 daf5832b-e2ab-4148-b236-28b70bfb9d22,Ink scenery
@@ -1409,4 +1409,4 @@ a0f6666b-15a6-4a49-8706-3380f4e9af09,water color
 a52d8963-1ad1-466b-84c9-aae98406b758,cyberpunk
 e7c24ae9-52fb-4234-9686-f3e9356eb4d1,steampunk
 f5b7e587-9b51-491b-9b49-10a6292967f8,comic
-28fd9685-b081-4117-a65d-8f5cf5a946f9,water color
+28fd9685-b081-4117-a65d-8f5cf5a946f9,UNK
