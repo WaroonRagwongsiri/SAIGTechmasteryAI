@@ -68,8 +68,8 @@ This effnet_b3 (Weighted balance) (300*300) (test=0.2) threshold = 5.8 PublicSco
 	Class water color: F1 Score = 0.9381
 
 Best Rn
-UNK 15.38% 217
-This effnet_b3 (Weighted balance) (300*300) (test=0.2) (/1.2) threshold = 5.8 PublicScore 0.85101
+UNK 14.32% 202
+This effnet_b3 (Weighted balance) (300*300) (test=0.2) (/1.2) threshold = 5.5 PublicScore 0.86562
 	Final F1 Score (Macro): 0.9498
 	Final F1 Score (Weighted): 0.9504
 
